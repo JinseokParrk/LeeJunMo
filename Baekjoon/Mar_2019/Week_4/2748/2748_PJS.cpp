@@ -1,10 +1,10 @@
 /*
-Ç®ÀÌ¿¡ °É¸° ½Ã°£ : 5ºÐ
-º¹Àâµµ °è»ê : 
-¼öÇà ½Ã°£ : 0ms
-¸Þ¸ð¸® : 1988 KB
-¿À´ä ÀÌÀ¯ :
-Ç®ÀÌ ¹æ¹ý : [Memoization] intÇüÀ¸·Î Ç®¾ú´Âµ¥ ¼ö°¡ Ä¿Àú¼Å long longÀ¸·Î Ç°.
+í’€ì´ì— ê±¸ë¦° ì‹œê°„ : 5ë¶„
+ë³µìž¡ë„ ê³„ì‚° : 
+ìˆ˜í–‰ ì‹œê°„ : 0ms
+ë©”ëª¨ë¦¬ : 1988 KB
+ì˜¤ë‹µ ì´ìœ  :
+í’€ì´ ë°©ë²• : [Memoization] intí˜•ìœ¼ë¡œ í’€ì—ˆëŠ”ë° ìˆ˜ê°€ ì»¤ì €ì…” long longìœ¼ë¡œ í’ˆ.
 */
 #include<iostream>
 #include<vector>
