@@ -31,3 +31,6 @@ Baekjoon/Mar_2019/Week_1/10048/10048_KIH.py
   cf) 구간 합 구하기(2042) : [세그먼트 트리](https://www.acmicpc.net/blog/view/9) (모르면 절대 못품)<br/>
       집합의 표현(1717) : [Union-find](https://brenden.tistory.com/33) <br/>
 - - -
+* 2019년 Apr. Week_1
+  * [줄 세우기 (2252)](https://www.acmicpc.net/problem/2252) / [네트워크 연결(1922)](https://www.acmicpc.net/problem/1922) / [LCA 2(11438)](https://www.acmicpc.net/problem/2252) <br/>
+- - -
