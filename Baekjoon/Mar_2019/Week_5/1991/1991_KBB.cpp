@@ -60,3 +60,5 @@ void post(int node) {
 	post(my_tree[node][1]);
 	printf("%c", node + 'A');
 }
+
+
